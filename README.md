@@ -1,6 +1,6 @@
 # Choose Your Own Adventure Project!
 
-In this project, you'll be building a Choose Your Own Adventure Website!
+In this project, you'll be building a Choose Your Own Adventure Website! Fork and clone this repo to start with a template.
 
 Each of your pages should link to at least two other pages.
 
