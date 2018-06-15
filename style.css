@@ -1,0 +1,11 @@
+/* IGNORE THIS! This is just setup for different browsers */
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*End the ignore section*/
+/* Default to a sans-serif font */
+html {
+    font-family: sans-serif;
+}
